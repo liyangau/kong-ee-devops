@@ -1,0 +1,4 @@
+routes:
+- name: ${{ env "DECK_SERVICE_TAG" }}-catch-all-route
+  paths:
+    - /

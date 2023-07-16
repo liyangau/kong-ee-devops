@@ -1,0 +1,5 @@
+deploy.sh
+gh.secrets
+.secrets
+.vscode
+.env
